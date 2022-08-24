@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Oswald", sans-serif;
+}
+
+.banner-section {
+  height: 500px;
+}
+
+img {
+  height: 500px;
+  width: 1350px;
+}
+
+.banner-text {
+  text-align: center;
+  margin-top: -30%;
+  color: rgb(255, 255, 255);
+}
+.banner-text h1 {
+  font-size: 40px;
+}
+.banner-text p {
+  font-size: 15px;
+}
+.banner-btn {
+  text-align: center;
+  margin-top: 40px;
+}
+.button {
+  background-color: rgb(255, 89, 89);
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+
+  font-size: 16px;
+  border-radius: 5px;
+}
+.donate-section {
+  height: 300px;
+  text-align: center;
+  margin-left: 130px;
+}
+.donate p {
+  font-size: 15px;
+}
+.select-amount {
+  text-align: center;
+  margin-left: 21%;
+margin-top: 35px;
+}
+.amount {
+  background-color: rgba(211, 211, 211, 0.987);
+  width: 50px;
+  height: 50px;
+  padding: 20px;
+  margin: 10px;
+  float: left;
+  font-weight: bolder;
+}
+.amount p {
+  color: gray;
+}
+#amount-box {
+  border-style: solid;
+  border-color: brown;
+  background-color: antiquewhite;
+}
+span {
+  color: brown;
+}
+.input {
+  height: 50px;
+  width: 50%;
+  margin-left: 26%;
+  margin-bottom: 15px;
+  text-align: center;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid gray;
+}
+#input-text {
+  margin-top: 28px;
+  text-align: center;
+  border: 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+.donate-btn {
+  height: 30px;
+  text-align: center;
+  margin-top: 25px;
+}
+.donate-plan {
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  margin-top: 63px;
+}
+#blood-img {
+  width: 30px;
+  height: 30px;
+}
+#shelter-img {
+  width: 30px;
+  height: 30px;
+}
+#edu-img {
+  width: 30px;
+  height: 30px;
+}
+.content-box {
+  width: 230px;
+  height: 270px;
+  padding: 10px;
+  margin: 5px;
+  float: left;
+  margin: 18px;
+}
+.content-box p {
+  font-size: 14px;
+}
+#blood-box {
+  background-color: antiquewhite;
+}
+#shelter-box {
+  background-color: rgb(248, 216, 174);
+}
+#edu-box {
+  background-color: rgb(129, 240, 129);
+}
+
+.gallery-section{
+  height: 500px;
+  text-align: center;
+}
+.glallery-box{
+  float: left;
+  margin-left: 98px;
+  padding-top: 50px;
+}
+.glallery-box img{
+  height:150px;
+  width: 200px;
+}
+
+.update-section {
+  height: 200px;
+  text-align: center;
+}
+.update-content p {
+  color: gray;
+}
+.email-section {
+  height: 200px;
+  text-align: center;
+}
+#email {
+  width: 235px;
+  height: 35px;
+  margin-top: 67px;
+}
+#sub {
+  width: 106px;
+  height: 39px;
+  background-color: rgb(255, 89, 89);
+  font-weight: bold;
+  border: 0;
+  border-radius: 3px;
+  color: aliceblue;
+}
+.email-content {
+  background-color: rgba(194, 180, 255, 0.987);
+  width: 600px;
+  height: 150px;
+  padding: 10px;
+  margin-left: 330px;
+}
+.footer {
+  height: 150px;
+  text-align: center;
+  background-color: rgb(4, 5, 25);
+}
+.footer h3 {
+  color: rgba(186, 57, 10, 0.817);
+}
+.footer p {
+  color: aliceblue;
+}
+.footer-content {
+  padding-top: 17px;
+}
